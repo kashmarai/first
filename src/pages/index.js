@@ -1,5 +1,5 @@
 import React from 'react';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import {Redirect} from '@docusaurus/router';
 
 export default function Home() {
     return <Redirect to="/blog" />;

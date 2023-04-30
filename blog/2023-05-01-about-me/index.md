@@ -8,7 +8,10 @@ tags: []
 ## Text Description
 Hi,
 
-I am Kashma Rai.
+This blog chronicles my interest in healthcare and affordable diagnostics. Software and hardware tools relevant to my interest are reviewed here.
+-Kashma Rai, Ph.D
+-Kashma Rai, Ph.D.
+
 
 ## Image
 

@@ -55,10 +55,16 @@ const config = {
       navbar: {
         title: 'Kromlogs',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Logo',
+          src: 'img/logo.jpeg',
         },
-        items: [],
+        items: [
+          {
+            to: 'blog/about-me',
+            label: 'About Me',
+            position: 'left'
+          }
+        ],
       },
       footer: {
         style: 'dark',
